@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Artyom
+- 👀 I’m interested in programming¯\_(ツ)_/¯
+- 💻 I’m currently learning Python
+- 🤝 I’m looking to collaborate with someone
+- 📫 How to reach me bazhenovartyom1007@gmail.com
